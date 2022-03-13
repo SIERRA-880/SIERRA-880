@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently learning Computer Science @ UMons
+- I'm currently learning Computer Science at University of Mons in Belgium
 - Fedora user
 - Open source enthusiast 
 
