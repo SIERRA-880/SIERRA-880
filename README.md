@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm currently learning Computer Science at University of Mons in Belgium
-- Fedora user
+- Working at University of Mons printing service
+- NixOS user
 - Open source enthusiast 
 
 <!--
